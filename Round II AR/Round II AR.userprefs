@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Round II AR.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\KudanAR\Scripts\Components\KudanTracker.cs">
+    <Files>
+      <File FileName="Assets\KudanAR\Scripts\Components\KudanTracker.cs" Line="173" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
